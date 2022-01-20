@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,SACE,WAAY,CACZ,YACF","file":"main.2c8dec91.chunk.css","sourcesContent":[".App {\n  font-family: sans-serif;\n}\n\ntextarea {\n  width: 400px;\n  height: 100px;\n}\n"]}

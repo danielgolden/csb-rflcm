@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://danielgolden.github.io/csb-rflcm/static/css/main.2c8dec91.chunk.css",
+    "main.js": "https://danielgolden.github.io/csb-rflcm/static/js/main.1a1eaa0a.chunk.js",
+    "main.js.map": "https://danielgolden.github.io/csb-rflcm/static/js/main.1a1eaa0a.chunk.js.map",
+    "runtime-main.js": "https://danielgolden.github.io/csb-rflcm/static/js/runtime-main.bf57c3e9.js",
+    "runtime-main.js.map": "https://danielgolden.github.io/csb-rflcm/static/js/runtime-main.bf57c3e9.js.map",
+    "static/js/2.be9ce23d.chunk.js": "https://danielgolden.github.io/csb-rflcm/static/js/2.be9ce23d.chunk.js",
+    "static/js/2.be9ce23d.chunk.js.map": "https://danielgolden.github.io/csb-rflcm/static/js/2.be9ce23d.chunk.js.map",
+    "index.html": "https://danielgolden.github.io/csb-rflcm/index.html",
+    "static/css/main.2c8dec91.chunk.css.map": "https://danielgolden.github.io/csb-rflcm/static/css/main.2c8dec91.chunk.css.map",
+    "static/js/2.be9ce23d.chunk.js.LICENSE.txt": "https://danielgolden.github.io/csb-rflcm/static/js/2.be9ce23d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf57c3e9.js",
+    "static/js/2.be9ce23d.chunk.js",
+    "static/css/main.2c8dec91.chunk.css",
+    "static/js/main.1a1eaa0a.chunk.js"
+  ]
+}
